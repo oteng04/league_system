@@ -1,0 +1,37 @@
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.exe.config
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.exe
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.pdb
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.csprojResolveAssemblyReference.cache
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.Properties.Resources.resources
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.csproj.GenerateResource.Cache
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.exe
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.pdb
+E:\Programming sample\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.Home.resources
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.exe.config
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.exe
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.pdb
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.exe.config
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.exe
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.pdb
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.exe
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.pdb
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.csprojResolveAssemblyReference.cache
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.Epl.resources
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.Home.resources
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.Properties.Resources.resources
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.csproj.GenerateResource.Cache
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.AddTeams.resources
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.AddScores.resources
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.exe
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.pdb
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.csprojResolveAssemblyReference.cache
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.AddScores.resources
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.AddTeams.resources
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.Epl.resources
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.Home.resources
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.Properties.Resources.resources
+D:\Programming\C#\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.csproj.GenerateResource.Cache
+E:\Programming sample\MyProject\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.UpdateTeam.resources
+E:\Academic files\Level 300 (1)\C #\LeagueTableSystem\LeagueTableSystem\bin\Debug\LeagueTableSystem.exe.config
+E:\Academic files\Level 300 (1)\C #\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.exe
+E:\Academic files\Level 300 (1)\C #\LeagueTableSystem\LeagueTableSystem\obj\Debug\LeagueTableSystem.pdb
